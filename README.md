@@ -7,4 +7,4 @@ Software for automatically adjusting ID3 tags in mp3 files
 * fills empty tags
 
 
-.. Still in development ..
+.. Still working on it
